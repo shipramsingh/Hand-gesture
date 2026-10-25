@@ -1,6 +1,6 @@
 import sys
 import time
-import cv2
+import cv2  
 
 from hand_detector import HandDetector
 from gesture_detector import GestureDetector
